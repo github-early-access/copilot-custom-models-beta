@@ -1,4 +1,4 @@
-# ** FEATURE NAME - Alpha/Private Beta/Technical Preview (edit template for full text) ** 
+# ** Copilot Custom Models - Limited Public Beta ** 
 
 Welcome to the <!-- ALPHA/PRIVATE BETA/TECHNICAL PREVIEW of FEATURE NAME --> . 🎉 
 <!--
