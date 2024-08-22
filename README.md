@@ -20,6 +20,8 @@ As per [GitHub's Terms of Service](https://docs.github.com/en/github/site-policy
 
 > Beta Previews may not be supported or may change at any time. You may receive confidential information through those programs that must remain confidential while the program is private. We'd love your feedback to make our Beta Previews better.
 
+Also, by participating in the Limited Public Beta of Copilot Custom Models, you agree to the GitHub [Pre-release Terms of Use](https://docs.github.com/en/site-policy/github-terms/github-pre-release-license-terms)
+
 ## 🔗 How to Use this Repository
 
 We will be using this repository to centralize **early** feedback on Copilot Custom Models.
@@ -56,8 +58,6 @@ _Issue Category:_
 ####  🎥 An Intro to FEATURE NAME -->
 
 ## ❓ FAQ 
-
-<summary>Click to expand 👇</summary>
 
 ## Frequently Asked Questions
 
