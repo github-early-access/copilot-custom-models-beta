@@ -59,5 +59,28 @@ _Issue Category:_
 
 <summary>Click to expand 👇</summary>
 
-<!-- Include FAQ here -->
+## Frequently Asked Questions
 
+### 1. What are GitHub Copilot Custom Models?
+
+GitHub Copilot Custom Models are fine-tuned versions of the Copilot model, specifically tailored to your organization’s unique coding environment. These custom models are created using Multi-LoRA (Low-Rank Adaptation) techniques, which allow us to efficiently fine-tune the base model with your organization’s proprietary code, internal libraries, and specialized languages. The result is a Copilot that understands and adapts to the nuances of your specific codebase, providing more accurate and context-aware code suggestions that align closely with your development practices.
+
+### 2. How do I participate in the Limited Public Beta?
+
+To join the beta, your organization must be on a GitHub Copilot Enterprise plan. You can sign up through the provided [beta enrollment link](#). Once approved, your organization will be able to create and train custom models based on your specific coding environment.
+
+### 3. What are the prerequisites for using Custom Models?
+
+Your organization’s code must be hosted in GitHub repositories, and you should have a substantial proprietary codebase or use specialized programming languages. Participation in the beta also requires your developers to use GitHub Copilot in supported IDEs, where the custom models will enhance code completion scenarios.
+
+### 4. What data is used to train Custom Models?
+
+Custom Models are trained using your organization’s GitHub repositories and, optionally, telemetry from developer interactions with Copilot. All data used for training remains private and secure, and it is used exclusively for your custom model.
+
+### 5. What legal terms must participants agree to for this beta?
+
+All participants in the beta must agree to GitHub’s pre-release legal terms, which include provisions for data usage and privacy. Your organization’s admin will need to approve these terms before participating.
+
+### 6. How will I know if my custom model is performing better?
+
+During the beta, GitHub will work closely with your team to monitor the performance of your custom model. While there isn’t a self-serve insights portal during the beta, we will provide qualitative feedback mechanisms and support to help you assess the effectiveness of the custom model. Additionally, you can leverage the Copilot Usage Metrics API to track and timestamp the acceptance rates of code suggestions before and after your custom model is deployed. This will help you quantitatively measure improvements in how often your team accepts suggestions from Copilot, offering a clear indicator of your custom model’s impact.
