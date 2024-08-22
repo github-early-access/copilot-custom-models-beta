@@ -31,21 +31,21 @@ You can use this repository to file issues to:
 - Search for existing issues already reported for potential workarounds.
 - File a bug report.
 
-## **[Discussions](https://github.com/gh-community/copilot-custom-models-beta/discussions)** 
+## **[Discussions](https://github.com/github-early-access/copilot-custom-models-beta/discussions)** 
 
 Discussions should be used as much as possible for questions, ideas, and open discussions with other folks in the preview.
 
 _Discussion Categories:_ 
-- #### 💡 [I have a suggestion](https://github.com/gh-community/copilot-custom-models-beta/discussions/categories/ideas)
-- #### ❓ [I have a question](https://github.com/gh-community/copilot-custom-models-beta/discussions/categories/q-a)
-- #### ✏️ [I have something else to discuss](https://github.com/gh-community/copilot-custom-models-beta/discussions/categories/general)
+- #### 💡 [I have a suggestion](https://github.com/github-early-access/copilot-custom-models-beta/discussions/categories/ideas)
+- #### ❓ [I have a question](https://github.com/github-early-access/copilot-custom-models-beta/discussions/categories/q-a)
+- #### ✏️ [I have something else to discuss](https://github.com/github-early-access/copilot-custom-models-beta/discussions/categories/general)
 
 ## **[Issues](https://github.com/gh-community/copilot-custom-models-beta/issues)**
 
 Issues should be used for bug reports.
 
 _Issue Category:_ 
-- #### 🐞 [I found a bug](https://github.com/gh-community/copilot-custom-models-beta/issues/new?assignees=&labels=bug&template=bug-template.yml)
+- #### 🐞 [I found a bug](https://github.com/github-early-access/copilot-custom-models-beta/issues/new?assignees=&labels=bug&template=bug-template.yml)
 
 ## 🗒️ Getting Started
 
