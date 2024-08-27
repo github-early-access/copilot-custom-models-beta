@@ -11,9 +11,9 @@ body:
         
         If you encounter any errors in training a custom model, please submit an issue here and our engineering team will investigate and provide guidance.
   - type: input
+    id: pipeline
     attributes:
       label: Pipeline ID
-      id: pipeline
       placeholder: "00000000-0000-0000-0000-000000000000"
       description: |
         The pipeline ID from the training run which encountered an error.
