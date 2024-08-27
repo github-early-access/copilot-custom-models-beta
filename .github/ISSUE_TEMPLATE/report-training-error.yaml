@@ -7,7 +7,9 @@ body:
   - type: markdown
     attributes:
       value: |
-        Thank you participating in the copilot custom models beta! If you encounter any errors in training a custom model, please submit an issue here and our engineering team will investigate.
+        Thank you participating in the GitHub Copilot custom models beta!
+        
+        If you encounter any errors in training a custom model, please submit an issue here and our engineering team will investigate and provide guidance.
   - type: input
     attributes:
       label: Pipeline ID
