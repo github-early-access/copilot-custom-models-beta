@@ -13,6 +13,7 @@ body:
   - type: input
     attributes:
       label: Pipeline ID
+      id: pipeline
       placeholder: "00000000-0000-0000-0000-000000000000"
       description: |
         The pipeline ID from the training run which encountered an error.
