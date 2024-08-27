@@ -1,5 +1,5 @@
 name: Report Training Error
-about: Report a training error, and track investigation and mitigation advice from
+description: Report a training error, and track investigation and mitigation advice from
   GitHub Engineering
 title: "[Training Error]: "
 labels: training-error
