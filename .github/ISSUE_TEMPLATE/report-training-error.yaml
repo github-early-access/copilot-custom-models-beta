@@ -11,6 +11,13 @@ body:
   - type: input
     attributes:
       label: Pipeline ID
+      placeholder: "00000000-0000-0000-0000-000000000000"
       description: |
-        The pipeline ID from the training run which encountered an error. This can be retrieved from the training details for the model, for example:
+        The pipeline ID from the training run which encountered an error.
+        <details>
+        <summary>How do I find this?</summary>
+        The pipeline ID for a training run is a UUID identifier unique to each training.
+        You can find it by navigating to the training details page for the model training which failed, and viewing the training logs.
+        An example log line may look like:
         `2024-08-23 18:42:50 Pipeline ID: 21082043-7f21-4d76-9211-52ed4c06f8b1, Stage ID: ba4d773e-b917-4f69-acfb-40813a018d05`
+        </details>
