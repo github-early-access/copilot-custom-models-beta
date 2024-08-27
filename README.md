@@ -1,4 +1,4 @@
-# Copilot Custom Models - Limited Public Beta
+# Custom Models for GitHub Copilot - Limited Public Beta
 
 With Custom Models, you can fine-tune GitHub Copilot to better align with your organization’s unique coding environment. This means that your developers will receive code suggestions that are more contextually relevant, leveraging your proprietary libraries, frameworks, and even specialized languages. Imagine Copilot understanding the intricacies of your internal tools, adhering to your specific coding standards, and helping your team code faster and with greater accuracy—all while staying within your established workflows.
 
