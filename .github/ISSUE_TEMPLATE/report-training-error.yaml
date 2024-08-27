@@ -3,7 +3,6 @@ about: Report a training error, and track investigation and mitigation advice fr
   GitHub Engineering
 title: "[Training Error]: "
 labels: training-error
-assignees: ''
 body:
   - type: markdown
     attributes:
